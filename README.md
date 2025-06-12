@@ -1,3 +1,7 @@
+#Install
+npm install --save git+https://github.com/htf-app/video-animation-player.git --legacy-peer-deps
+npm install --save-dev git+https://github.com/htf-app/video-animation-player-types.git --legacy-peer-deps
+
 # VAP 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT)
